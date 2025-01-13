@@ -1,4 +1,4 @@
-```markdown
+
 # Just Enough Data Science and Machine Learning
 
 Authors: **Mark Levene** and **Martyn Harris**
@@ -100,4 +100,3 @@ We welcome feedback and contributions! If you notice any issues or have suggesti
 ---
 
 **Happy Coding and Data Exploring!**
-```
