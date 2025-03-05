@@ -90,13 +90,3 @@ This command will open the Jupyter Notebook interface in your default web browse
   pip install pandas numpy matplotlib scikit-learn
   ```
 - Run the code cells in the notebook to replicate the examples discussed in the book.
-
----
-
-## Contributing
-
-We welcome feedback and contributions! If you notice any issues or have suggestions for additional examples, feel free to open an [issue](https://github.com/martyn-harris-bbk/JustEnoughDataScienceAndMachineLearning/issues) or submit a pull request.
-
----
-
-**Happy Coding and Data Exploring!**
